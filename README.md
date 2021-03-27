@@ -1,1 +1,1 @@
-# my-components
+Just an ordinary componenes repo.
